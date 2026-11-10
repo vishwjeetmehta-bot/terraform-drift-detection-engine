@@ -20,3 +20,4 @@ resource "azurerm_resource_group" "drift_test" {
     ManagedBy = "Terraform"
   }
 }
+

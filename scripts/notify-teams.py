@@ -42,3 +42,4 @@ def notify_drift(log_file):
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         notify_drift(sys.argv[1])
+

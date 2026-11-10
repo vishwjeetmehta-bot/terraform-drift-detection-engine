@@ -27,3 +27,4 @@ jobs:
         run: |
           chmod +x scripts/detect-drift.sh
           ./scripts/detect-drift.sh templates
+
